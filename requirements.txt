@@ -1,6 +1,6 @@
 --only-binary=pillow,numpy
 pillow==12.2.0
-numpy==1.26.4
+numpy==2.4.6
 langchain==0.1.12
 langchain-community==0.0.28
 langchain-core==0.1.31
